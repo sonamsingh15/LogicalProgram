@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\LogicalProgram\LogicalProgram\obj\Debug\netcoreapp3.1\LogicalProgram.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\LogicalProgram\LogicalProgram\obj\Debug\netcoreapp3.1\LogicalProgram.AssemblyInfo.cs
+C:\Users\DELL\source\repos\LogicalProgram\LogicalProgram\obj\Debug\netcoreapp3.1\LogicalProgram.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LogicalProgram\LogicalProgram\bin\Debug\netcoreapp3.1\LogicalProgram.exe
+C:\Users\DELL\source\repos\LogicalProgram\LogicalProgram\bin\Debug\netcoreapp3.1\LogicalProgram.deps.json
+C:\Users\DELL\source\repos\LogicalProgram\LogicalProgram\bin\Debug\netcoreapp3.1\LogicalProgram.runtimeconfig.json
+C:\Users\DELL\source\repos\LogicalProgram\LogicalProgram\bin\Debug\netcoreapp3.1\LogicalProgram.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\LogicalProgram\LogicalProgram\bin\Debug\netcoreapp3.1\LogicalProgram.dll
+C:\Users\DELL\source\repos\LogicalProgram\LogicalProgram\bin\Debug\netcoreapp3.1\LogicalProgram.pdb
+C:\Users\DELL\source\repos\LogicalProgram\LogicalProgram\obj\Debug\netcoreapp3.1\LogicalProgram.dll
+C:\Users\DELL\source\repos\LogicalProgram\LogicalProgram\obj\Debug\netcoreapp3.1\LogicalProgram.pdb
+C:\Users\DELL\source\repos\LogicalProgram\LogicalProgram\obj\Debug\netcoreapp3.1\LogicalProgram.genruntimeconfig.cache
+C:\Users\DELL\source\repos\LogicalProgram\LogicalProgram\obj\Debug\netcoreapp3.1\LogicalProgram.csprojAssemblyReference.cache
